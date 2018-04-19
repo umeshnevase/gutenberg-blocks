@@ -152,8 +152,8 @@
                         <p dangerouslySetInnerHTML={ { __html: props.attributes.description } }></p>
                     </div>
                 </div>
-                            );
+                    );
                     },
-                } );
+        } );
 
-        } )();
+    } )();
