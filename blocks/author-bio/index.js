@@ -1,5 +1,5 @@
 /**
- * BLOCK: display A Author bio
+ * BLOCK: Display author bio
  *
  * Styles:
  *        editor.css — Editor styles for the block.
